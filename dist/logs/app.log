@@ -1,0 +1,20 @@
+{"level":"info","message":"Primary is running","timestamp":"2023-12-15T15:03:22.020Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.638Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.657Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.661Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.675Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.675Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.695Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.692Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.708Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.724Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.736Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.743Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.755Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.783Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.791Z"}
+{"level":"info","message":"Worker Started","timestamp":"2023-12-15T15:03:22.833Z"}
+{"level":"info","message":"Server is running @ http://127.0.0.1:3030","timestamp":"2023-12-15T15:03:22.839Z"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 5.210 ms - 75\u001b[0m","timestamp":"2023-12-15T15:03:33.294Z"}
+{"level":"error","message":"💥 App Error: Can't find /favicon.ico on this server!\n    at file:///data/Extra/Initial-NodeJs-Server-Setup/dist/app.js:38:37\n    at Layer.handle [as handle_request] (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/layer.js:95:5)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:144:13)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at next (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:140:7)\n    at Route.dispatch (/data/Extra/Initial-NodeJs-Server-Setup/node_modules/express/lib/router/route.js:114:3)","timestamp":"2023-12-15T15:03:33.660Z"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 1.262 ms - -\u001b[0m","timestamp":"2023-12-15T15:03:33.663Z"}
